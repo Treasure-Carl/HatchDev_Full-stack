@@ -1,0 +1,8 @@
+Creating an instance from a defined class 
+
+const "Name" = new library("Constructor")
+
+1). Read up on the Type inbuilt proprity in typescript
+2). Pefere composition over inheritance in typescript
+
+To duplicate a code block  ALT + SHIFT + DownArrowKey
